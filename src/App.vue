@@ -1,7 +1,7 @@
 <script setup>
 import NavBar from './components/NavBar.vue';
 import Footer from './components/Footer.vue';
-import Competences from './components/Competences.vue';
+import Skills from './components/Skills.vue';
 import Temoignage from './components/Temoignage.vue';
 
 </script>
@@ -110,7 +110,7 @@ import Temoignage from './components/Temoignage.vue';
     </div>
   </div>
   <!-- les Skills -->
-  <Competences/>
+  <Skills/>
 
   <!-- les projets -->
 
